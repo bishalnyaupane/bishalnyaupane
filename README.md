@@ -12,7 +12,7 @@
 - 🐍 Learning **Python** & improving **HTML/CSS/JavaScript**  
 - 💡 Interested in problem-solving, algorithms, and design  
 - 🎯 Goal: Build a strong foundation in programming  
-- ⚡ Fun fact:...................
+- ⚡ Fun fact:------------------
 
 ---
 
